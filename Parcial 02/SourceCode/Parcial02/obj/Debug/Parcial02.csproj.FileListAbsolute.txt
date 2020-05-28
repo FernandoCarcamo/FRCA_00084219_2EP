@@ -1,0 +1,80 @@
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\Parcial02.exe.config
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\Parcial02.pdb
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\Npgsql.dll
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Buffers.dll
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Memory.dll
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Text.Json.dll
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.ValueTuple.dll
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\Npgsql.pdb
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\Npgsql.xml
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Buffers.xml
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Memory.xml
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Text.Json.xml
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\bin\Debug\System.ValueTuple.xml
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.exe.config
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.Address.resources
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.Administrador.resources
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.Form1.resources
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.MainForm.resources
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.Negocios.resources
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.Orders.resources
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.Products.resources
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.Properties.Resources.resources
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.PswdChange.resources
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.Users.resources
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.Usuario.resources
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.csproj.CopyComplete
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.exe
+C:\Users\Fernando\Desktop\2do parcial poo\SourceCode\Parcial02\obj\Debug\Parcial02.pdb
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\Parcial02.exe.config
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\Parcial02.pdb
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\Npgsql.dll
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Buffers.dll
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Memory.dll
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Text.Json.dll
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.ValueTuple.dll
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\Npgsql.pdb
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\Npgsql.xml
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Buffers.xml
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Memory.xml
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Text.Json.xml
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\bin\Debug\System.ValueTuple.xml
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.exe.config
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.Address.resources
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.Administrador.resources
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.Form1.resources
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.MainForm.resources
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.Negocios.resources
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.Orders.resources
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.Products.resources
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.Properties.Resources.resources
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.PswdChange.resources
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.Users.resources
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.Usuario.resources
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.csproj.CopyComplete
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.exe
+C:\Users\Fernando\Desktop\2do parcial poo\Parcial 02\SourceCode\Parcial02\obj\Debug\Parcial02.pdb
