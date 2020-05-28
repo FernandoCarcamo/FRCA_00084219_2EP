@@ -1,0 +1,51 @@
+CREATE TABLE APPUSER(
+	idUser SERIAL PRIMARY KEY,
+	fullName VARCHAR(100) NOT NULL,
+	userName VARCHAR(50) NOT NULL,
+	type CHARACTER VARYING(8) NOT NULL,
+	pswd TEXT NOT NULL
+);
+
+CREATE TABLE ADDRESS(
+	idAddress SERIAL PRIMARY KEY,
+	address  VARCHAR(100) NOT NULL,
+	idUser INT NOT NULL
+);
+
+CREATE TABLE PRODUCT(
+	idProduct SERIAL PRIMARY KEY,
+	name VARCHAR(100) NOT NULL,
+	idBusiness INT NOT NULL
+);
+
+CREATE TABLE APPORDER(
+	idOrder SERIAL PRIMARY KEY,
+	createDate DATE NOT NULL,
+	idProduct INT NOT NULL,
+	idAddress INT NOT NULL
+);
+
+CREATE TABLE BUSINESS(
+	idBusiness SERIAL PRIMARY KEY,
+	name VARCHAR(80) NOT NULL,
+	description TEXT NOT NULL
+);
+
+ALTER TABLE ADDRESS
+ADD CONSTRAINT fk_address_appuser
+FOREIGN KEY (idUser) REFERENCES APPUSER(idUser);
+
+ALTER TABLE PRODUCT
+ADD CONSTRAINT fk_product_business
+FOREIGN KEY (idBusiness) REFERENCES BUSINESS(idBusiness);
+
+ALTER TABLE APPORDER
+ADD CONSTRAINT fk_apporder_product
+FOREIGN KEY (idProduct) REFERENCES PRODUCT(idProduct);
+
+ALTER TABLE APPORDER
+ADD CONSTRAINT fk_apporder_address
+FOREIGN KEY (idAddress) REFERENCES ADDRESS(idAddress);
+
+
+(Habia olvidado subir esto cuando subi lo demas, por favor no me bajen tanta nota por eso :( ) 
